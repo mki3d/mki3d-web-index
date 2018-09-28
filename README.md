@@ -9,4 +9,6 @@ containing the URL in the form of the following example:
 
 https://mki1967.github.io/mki3d/mki3d_www/travel.html?input=https://mki1967.github.io/mki3d-data/data/web/stage2.mki3d
 
+Note that the URL and its `input` parameter  should be both full (i.e. not relative) URLs .
+
 After testing the link I will add it to the list.
